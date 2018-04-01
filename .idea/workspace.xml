@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bf5d806-71bf-4a75-8a41-6f3d9488e620" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClimbingStairs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaximumSubarray.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RangeSumQuery-Immutable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bestTimeToBuyAndSellStock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minCostClimbingStairs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PalindromicSubstrings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countBits.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,11 +55,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RangeSumQuery-Immutable.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RangeSumQuery-Immutable.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RangeSumQuery-Immutable.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromicSubstrings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PalindromicSubstrings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countBits.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/countBits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -79,13 +97,14 @@
         <option value="$PROJECT_DIR$/123.py" />
         <option value="$PROJECT_DIR$/ClimbingStairs.py" />
         <option value="$PROJECT_DIR$/MaximumSubarray.py" />
-        <option value="$PROJECT_DIR$/asd.py" />
         <option value="$PROJECT_DIR$/RangeSumQuery-Immutable.py" />
+        <option value="$PROJECT_DIR$/asd.py" />
+        <option value="$PROJECT_DIR$/countBits.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="142" />
+    <option name="x" value="40" />
     <option name="y" value="184" />
     <option name="width" value="1680" />
     <option name="height" value="866" />
@@ -135,7 +154,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.asd">
+  <component name="RunManager" selected="Python.asd (1)">
+    <configuration name="asd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PalindromicSubstrings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,9 +189,14 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.asd" />
+      <item index="1" class="java.lang.String" itemvalue="Python.asd (1)" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.asd" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.asd (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.asd" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +214,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="142" y="184" width="1680" height="866" extended-state="0" />
+    <frame x="40" y="184" width="1680" height="866" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -201,7 +242,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PalindromicSubstrings.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -242,6 +290,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PalindromicSubstrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countBits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding />
         </state>
       </provider>
